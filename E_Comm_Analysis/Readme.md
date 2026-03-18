@@ -118,7 +118,7 @@ The project uses the following tables:
 
 ---
 
-## 👨‍💻 Author  
+[## 👨‍💻 Author  
 **Nikhil Goswami**  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile  
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile  ](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
